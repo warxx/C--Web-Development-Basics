@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace SimpleMVC.App.Data
+﻿namespace SimpleMVC.App.Data
 {
-    class Data
+    public class Data
     {
+        private static DbContext context;
+
+        public static DbContext Context => context ?? (context = new DbContext());
     }
 }

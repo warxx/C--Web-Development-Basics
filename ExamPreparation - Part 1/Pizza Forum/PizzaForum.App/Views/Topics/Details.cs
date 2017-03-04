@@ -30,7 +30,7 @@ namespace PizzaForum.Appp.Views.Topics
 
             details = string.Format(details, detailsSb);
 
-            string replyDetails = File.ReadAllText(Constants.ContentPath + Constants.DetailsReplyContent);
+            string replyForm = File.ReadAllText(Constants.ContentPath + Constants.ReplyFormContent);
 
             string footer = File.ReadAllText(Constants.ContentPath + Constants.Footer);
 
@@ -38,7 +38,7 @@ namespace PizzaForum.Appp.Views.Topics
             sb.Append(header);
             sb.Append(navbarLogged);
             sb.Append(details);
-            sb.Append(replyDetails);
+            sb.Append(replyForm);
             sb.Append(footer);
 
             return sb.ToString();

@@ -1,12 +1,9 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
-
-namespace SimpleMVC.App
+﻿namespace SimpleMVC.App
 {
-    class Constants
+    public static class Constants
     {
+        public const string ContentPath = "../../content/";
+        public const string Header = "header.html";
+
     }
 }

@@ -1,12 +1,16 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Ninject;
+using SimpleMVC.App.Data.Interfaces;
+using SimpleMVC.App.DependencyContainer;
 
 namespace SimpleMVC.App.Services
 {
-    class Service
+    public abstract class Service
     {
+        public Service()
+        {
+            this.Context = DependencyKernel.Kernel.Get<IUnitOfWork>();
+        }
+
+        protected IUnitOfWork Context { get; }
     }
 }

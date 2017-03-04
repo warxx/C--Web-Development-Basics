@@ -1,12 +1,14 @@
-﻿using System;
-using System.Collections.Generic;
-using System.Linq;
-using System.Text;
-using System.Threading.Tasks;
+﻿using Ninject.Modules;
+using SimpleMVC.App.Data;
+using SimpleMVC.App.Data.Interfaces;
 
 namespace SimpleMVC.App.DependencyContainer
 {
-    class Binding
+    public class Binding : NinjectModule
     {
+        public override void Load()
+        {
+            this.Bind<IUnitOfWork>().To<UnitOfWork>();
+        }
     }
 }

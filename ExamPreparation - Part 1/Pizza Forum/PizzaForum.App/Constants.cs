@@ -21,7 +21,7 @@ namespace PizzaForum.Appp
         public const string TopicsTemp = "topic-template.html";
         public const string TopicsNew = "topic-new.html";
         public const string DetailsContent = "topic-details-content.html";
-        public const string DetailsReplyContent = "topic-details-reply-form.html";
+        public const string ReplyFormContent = "topic-details-reply-form.html";
 
     }
 }
