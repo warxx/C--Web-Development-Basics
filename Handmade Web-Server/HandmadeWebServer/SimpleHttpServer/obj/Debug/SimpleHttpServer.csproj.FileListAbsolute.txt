@@ -1,0 +1,10 @@
+C:\Users\warXx\Desktop\C# Web Development Basics\Hand-made Web Server\HandmadeWebServer\SimpleHttpServer\obj\Debug\SimpleHttpServer.csprojResolveAssemblyReference.cache
+C:\Users\warXx\Desktop\C# Web Development Basics\Hand-made Web Server\HandmadeWebServer\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll
+C:\Users\warXx\Desktop\C# Web Development Basics\Hand-made Web Server\HandmadeWebServer\SimpleHttpServer\bin\Debug\SimpleHttpServer.pdb
+C:\Users\warXx\Desktop\C# Web Development Basics\Hand-made Web Server\HandmadeWebServer\SimpleHttpServer\obj\Debug\SimpleHttpServer.dll
+C:\Users\warXx\Desktop\C# Web Development Basics\Hand-made Web Server\HandmadeWebServer\SimpleHttpServer\obj\Debug\SimpleHttpServer.pdb
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\SimpleHttpServer\bin\Debug\SimpleHttpServer.pdb
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\SimpleHttpServer\obj\Debug\SimpleHttpServer.csprojResolveAssemblyReference.cache
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\SimpleHttpServer\obj\Debug\SimpleHttpServer.dll
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\SimpleHttpServer\obj\Debug\SimpleHttpServer.pdb

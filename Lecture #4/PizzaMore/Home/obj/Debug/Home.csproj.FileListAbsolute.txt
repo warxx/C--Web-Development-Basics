@@ -1,0 +1,16 @@
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #4\PizzaMore\Home\bin\Debug\Home.exe.config
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #4\PizzaMore\Home\bin\Debug\Home.exe
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #4\PizzaMore\Home\bin\Debug\Home.pdb
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #4\PizzaMore\Home\bin\Debug\EntityFramework.dll
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #4\PizzaMore\Home\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #4\PizzaMore\Home\bin\Debug\PizzaMore.Data.dll
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #4\PizzaMore\Home\bin\Debug\PizzaMore.Models.dll
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #4\PizzaMore\Home\bin\Debug\PizzaMore.Utility.dll
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #4\PizzaMore\Home\bin\Debug\PizzaMore.Data.pdb
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #4\PizzaMore\Home\bin\Debug\PizzaMore.Models.pdb
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #4\PizzaMore\Home\bin\Debug\PizzaMore.Utility.pdb
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #4\PizzaMore\Home\bin\Debug\EntityFramework.xml
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #4\PizzaMore\Home\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #4\PizzaMore\Home\obj\Debug\Home.csprojResolveAssemblyReference.cache
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #4\PizzaMore\Home\obj\Debug\Home.exe
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #4\PizzaMore\Home\obj\Debug\Home.pdb

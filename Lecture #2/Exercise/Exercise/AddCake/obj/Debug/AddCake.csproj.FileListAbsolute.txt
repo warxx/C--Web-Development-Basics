@@ -1,0 +1,6 @@
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #2\Exercise\Exercise\AddCake\bin\Debug\AddCake.exe.config
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #2\Exercise\Exercise\AddCake\bin\Debug\AddCake.exe
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #2\Exercise\Exercise\AddCake\bin\Debug\AddCake.pdb
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #2\Exercise\Exercise\AddCake\obj\Debug\AddCake.csprojResolveAssemblyReference.cache
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #2\Exercise\Exercise\AddCake\obj\Debug\AddCake.exe
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #2\Exercise\Exercise\AddCake\obj\Debug\AddCake.pdb

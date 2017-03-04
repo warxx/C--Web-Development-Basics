@@ -1,0 +1,14 @@
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\SharpStore.Services\bin\Debug\SharpStore.Services.dll.config
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\SharpStore.Services\bin\Debug\SharpStore.Services.dll
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\SharpStore.Services\bin\Debug\SharpStore.Services.pdb
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\SharpStore.Services\bin\Debug\EntityFramework.dll
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\SharpStore.Services\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\SharpStore.Services\bin\Debug\SharpStore.Data.dll
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\SharpStore.Services\bin\Debug\SharpStore.Data.pdb
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\SharpStore.Services\bin\Debug\EntityFramework.xml
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\SharpStore.Services\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\SharpStore.Services\obj\Debug\SharpStore.Services.csprojResolveAssemblyReference.cache
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\SharpStore.Services\obj\Debug\SharpStore.Services.dll
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\SharpStore.Services\obj\Debug\SharpStore.Services.pdb
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\SharpStore.Services\bin\Debug\SimpleHttpServer.dll
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\SharpStore.Services\bin\Debug\SimpleHttpServer.pdb

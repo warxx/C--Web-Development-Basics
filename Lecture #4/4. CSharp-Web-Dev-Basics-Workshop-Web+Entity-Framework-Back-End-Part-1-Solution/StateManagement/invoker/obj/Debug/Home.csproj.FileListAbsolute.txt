@@ -1,0 +1,2 @@
+C:\Users\c0dyy_000\Downloads\4. CSharp-Web-Dev-Basics-Workshop-Web+Entity-Framework-Back-End-Part-1-Solution\StateManagement\invoker\bin\Debug\Home.exe.config
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #4\4. CSharp-Web-Dev-Basics-Workshop-Web+Entity-Framework-Back-End-Part-1-Solution\StateManagement\invoker\bin\Debug\Home.exe.config

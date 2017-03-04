@@ -1,0 +1,12 @@
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #4\PizzaMore\PizzaMore.Data\bin\Debug\PizzaMore.Data.dll.config
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #4\PizzaMore\PizzaMore.Data\bin\Debug\PizzaMore.Data.dll
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #4\PizzaMore\PizzaMore.Data\bin\Debug\PizzaMore.Data.pdb
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #4\PizzaMore\PizzaMore.Data\bin\Debug\EntityFramework.dll
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #4\PizzaMore\PizzaMore.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #4\PizzaMore\PizzaMore.Data\bin\Debug\PizzaMore.Models.dll
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #4\PizzaMore\PizzaMore.Data\bin\Debug\PizzaMore.Models.pdb
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #4\PizzaMore\PizzaMore.Data\bin\Debug\EntityFramework.xml
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #4\PizzaMore\PizzaMore.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #4\PizzaMore\PizzaMore.Data\obj\Debug\PizzaMore.Data.csprojResolveAssemblyReference.cache
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #4\PizzaMore\PizzaMore.Data\obj\Debug\PizzaMore.Data.dll
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #4\PizzaMore\PizzaMore.Data\obj\Debug\PizzaMore.Data.pdb

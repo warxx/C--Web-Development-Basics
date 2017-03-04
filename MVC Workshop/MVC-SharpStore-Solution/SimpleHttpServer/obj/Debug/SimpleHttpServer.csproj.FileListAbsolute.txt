@@ -1,0 +1,7 @@
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\MVC Workshop\MVC-SharpStore-Solution\SimpleHttpServer\bin\Debug\Resources\Pages\404.html
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\MVC Workshop\MVC-SharpStore-Solution\SimpleHttpServer\bin\Debug\Resources\Pages\500.html
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\MVC Workshop\MVC-SharpStore-Solution\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll.config
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\MVC Workshop\MVC-SharpStore-Solution\SimpleHttpServer\bin\Debug\SimpleHttpServer.dll
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\MVC Workshop\MVC-SharpStore-Solution\SimpleHttpServer\bin\Debug\SimpleHttpServer.pdb
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\MVC Workshop\MVC-SharpStore-Solution\SimpleHttpServer\obj\Debug\SimpleHttpServer.dll
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\MVC Workshop\MVC-SharpStore-Solution\SimpleHttpServer\obj\Debug\SimpleHttpServer.pdb

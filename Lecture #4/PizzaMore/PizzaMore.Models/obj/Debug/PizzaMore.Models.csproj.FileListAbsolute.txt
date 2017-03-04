@@ -1,0 +1,5 @@
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #4\PizzaMore\PizzaMore.Models\bin\Debug\PizzaMore.Models.dll
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #4\PizzaMore\PizzaMore.Models\bin\Debug\PizzaMore.Models.pdb
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #4\PizzaMore\PizzaMore.Models\obj\Debug\PizzaMore.Models.csprojResolveAssemblyReference.cache
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #4\PizzaMore\PizzaMore.Models\obj\Debug\PizzaMore.Models.dll
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #4\PizzaMore\PizzaMore.Models\obj\Debug\PizzaMore.Models.pdb

@@ -1,0 +1,8 @@
+C:\Users\warXx\Desktop\C# Web Development Basics\Hand-made Web Server\HandmadeWebServer\proben\bin\Debug\proben.exe.config
+C:\Users\warXx\Desktop\C# Web Development Basics\Hand-made Web Server\HandmadeWebServer\proben\bin\Debug\proben.exe
+C:\Users\warXx\Desktop\C# Web Development Basics\Hand-made Web Server\HandmadeWebServer\proben\bin\Debug\proben.pdb
+C:\Users\warXx\Desktop\C# Web Development Basics\Hand-made Web Server\HandmadeWebServer\proben\bin\Debug\SimpleHttpServer.dll
+C:\Users\warXx\Desktop\C# Web Development Basics\Hand-made Web Server\HandmadeWebServer\proben\bin\Debug\SimpleHttpServer.pdb
+C:\Users\warXx\Desktop\C# Web Development Basics\Hand-made Web Server\HandmadeWebServer\proben\obj\Debug\proben.csprojResolveAssemblyReference.cache
+C:\Users\warXx\Desktop\C# Web Development Basics\Hand-made Web Server\HandmadeWebServer\proben\obj\Debug\proben.exe
+C:\Users\warXx\Desktop\C# Web Development Basics\Hand-made Web Server\HandmadeWebServer\proben\obj\Debug\proben.pdb

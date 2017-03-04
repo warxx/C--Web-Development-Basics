@@ -1,0 +1,10 @@
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\SharpStore.Data\bin\Debug\SharpStore.Data.dll.config
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\SharpStore.Data\bin\Debug\SharpStore.Data.dll
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\SharpStore.Data\bin\Debug\SharpStore.Data.pdb
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\SharpStore.Data\bin\Debug\EntityFramework.dll
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\SharpStore.Data\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\SharpStore.Data\bin\Debug\EntityFramework.xml
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\SharpStore.Data\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\SharpStore.Data\obj\Debug\SharpStore.Data.csprojResolveAssemblyReference.cache
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\SharpStore.Data\obj\Debug\SharpStore.Data.dll
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\SharpStore.Data\obj\Debug\SharpStore.Data.pdb

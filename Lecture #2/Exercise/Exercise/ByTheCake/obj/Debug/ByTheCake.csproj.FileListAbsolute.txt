@@ -1,0 +1,6 @@
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #2\Exercise\Exercise\ByTheCake\bin\Debug\ByTheCake.exe.config
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #2\Exercise\Exercise\ByTheCake\bin\Debug\ByTheCake.exe
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #2\Exercise\Exercise\ByTheCake\bin\Debug\ByTheCake.pdb
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #2\Exercise\Exercise\ByTheCake\obj\Debug\ByTheCake.csprojResolveAssemblyReference.cache
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #2\Exercise\Exercise\ByTheCake\obj\Debug\ByTheCake.exe
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #2\Exercise\Exercise\ByTheCake\obj\Debug\ByTheCake.pdb

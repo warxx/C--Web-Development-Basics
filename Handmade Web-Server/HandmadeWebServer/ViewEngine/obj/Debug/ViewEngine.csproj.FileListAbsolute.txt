@@ -1,0 +1,14 @@
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\ViewEngine\bin\Debug\ViewEngine.dll.config
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\ViewEngine\bin\Debug\ViewEngine.dll
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\ViewEngine\bin\Debug\ViewEngine.pdb
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\ViewEngine\bin\Debug\EntityFramework.dll
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\ViewEngine\bin\Debug\EntityFramework.SqlServer.dll
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\ViewEngine\bin\Debug\SharpStore.Data.dll
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\ViewEngine\bin\Debug\SharpStore.Data.pdb
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\ViewEngine\bin\Debug\EntityFramework.xml
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\ViewEngine\bin\Debug\EntityFramework.SqlServer.xml
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\ViewEngine\obj\Debug\ViewEngine.csprojResolveAssemblyReference.cache
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\ViewEngine\obj\Debug\ViewEngine.dll
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\ViewEngine\obj\Debug\ViewEngine.pdb
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\ViewEngine\bin\Debug\SimpleHttpServer.dll
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Handmade Web-Server\HandmadeWebServer\ViewEngine\bin\Debug\SimpleHttpServer.pdb

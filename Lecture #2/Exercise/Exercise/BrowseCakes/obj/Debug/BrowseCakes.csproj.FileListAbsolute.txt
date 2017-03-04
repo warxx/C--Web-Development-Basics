@@ -1,0 +1,6 @@
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #2\Exercise\Exercise\BrowseCakes\bin\Debug\BrowseCakes.exe.config
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #2\Exercise\Exercise\BrowseCakes\bin\Debug\BrowseCakes.exe
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #2\Exercise\Exercise\BrowseCakes\bin\Debug\BrowseCakes.pdb
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #2\Exercise\Exercise\BrowseCakes\obj\Debug\BrowseCakes.csprojResolveAssemblyReference.cache
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #2\Exercise\Exercise\BrowseCakes\obj\Debug\BrowseCakes.exe
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\Lecture #2\Exercise\Exercise\BrowseCakes\obj\Debug\BrowseCakes.pdb

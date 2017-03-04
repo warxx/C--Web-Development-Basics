@@ -1,0 +1,9 @@
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\ExamPreparation - Part 1\Pizza Forum - Solution\SimpleMVC\bin\Debug\Resources\Pages\404.html
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\ExamPreparation - Part 1\Pizza Forum - Solution\SimpleMVC\bin\Debug\Resources\Pages\500.html
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\ExamPreparation - Part 1\Pizza Forum - Solution\SimpleMVC\bin\Debug\SimpleMVC.dll
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\ExamPreparation - Part 1\Pizza Forum - Solution\SimpleMVC\bin\Debug\SimpleMVC.pdb
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\ExamPreparation - Part 1\Pizza Forum - Solution\SimpleMVC\bin\Debug\SimpleHttpServer.dll
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\ExamPreparation - Part 1\Pizza Forum - Solution\SimpleMVC\bin\Debug\SimpleHttpServer.pdb
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\ExamPreparation - Part 1\Pizza Forum - Solution\SimpleMVC\obj\Debug\SimpleMVC.csprojResolveAssemblyReference.cache
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\ExamPreparation - Part 1\Pizza Forum - Solution\SimpleMVC\obj\Debug\SimpleMVC.dll
+C:\Users\c0dyy_000\Desktop\C# Web Development Basics\ExamPreparation - Part 1\Pizza Forum - Solution\SimpleMVC\obj\Debug\SimpleMVC.pdb
